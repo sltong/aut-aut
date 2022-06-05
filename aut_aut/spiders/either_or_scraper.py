@@ -1,7 +1,7 @@
 from scrapy.spiders import XMLFeedSpider
 
 
-class EitheOrSpider(XMLFeedSpider):
+class EitherOrSpider(XMLFeedSpider):
     name = "either_or"
     allowed_domains = ['sks.dk']
     start_urls = [
