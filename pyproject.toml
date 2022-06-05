@@ -6,6 +6,7 @@ authors = ["Lao Tong <lao.s.t@pm.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Scrapy = "^2.6.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
